@@ -1,0 +1,13 @@
+- [ ] Generate 5 high-resolution background images for scroll storytelling (Goa, Manali, Jaipur, Kerala, Ladakh)
+- [ ] Create base directory structure and files
+- [ ] Implement `index.html` (Landing Page & Scroll Storytelling)
+- [ ] Implement `css/style.css` (Design System & Variables)
+- [ ] Implement `css/storytelling.css` (Parallax & Transitions)
+- [ ] Implement `css/components.css` (Glassmorphism, UI Elements)
+- [ ] Implement `js/storytelling.js` (Scroll Intersection Observers)
+- [ ] Implement `js/main.js` (Core UI Interactions)
+- [ ] Implement `js/ai-service.js` (Sandbox Data for Demos)
+- [ ] Implement `js/storage-service.js` (LocalStorage Fallback)
+- [ ] Implement `itinerary.html` (Generated Itinerary View)
+- [ ] Implement `dashboard.html` (Saved Trips View)
+- [ ] Final manual review of animations and responsive design
